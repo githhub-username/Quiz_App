@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341873995220",
+    "project_id": "onlinequizapp-64b16",
+    "storage_bucket": "onlinequizapp-64b16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341873995220:android:db4996a299419d903a7a41",
+        "android_client_info": {
+          "package_name": "com.example.onlinequizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5ukadpoknbBtX_VNL-_KB5jXcQ4_cP3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
